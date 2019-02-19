@@ -1,7 +1,7 @@
-from time import sleep
+import time
 
 print("4")
-sleep(2)
+time.sleep(2)
 print("2")
-sleep(1)
+time.sleep(1)
 print("1")
